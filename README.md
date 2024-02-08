@@ -10,3 +10,6 @@
 - [第三章](https://github.com/ElinLiu0/HandsOnTransformer/tree/master/chap3)
 - [第四章](https://github.com/ElinLiu0/HandsOnTransformer/tree/master/chap4)
 - [第五章](https://github.com/ElinLiu0/HandsOnTransformer/tree/master/chap5)
+- [第六章](https://github.com/ElinLiu0/HandsOnTransformer/tree/master/chap6)
+- [第七章](https://github.com/ElinLiu0/HandsOnTransformer/tree/master/chap7)
+- [第八章](https://github.com/ElinLiu0/HandsOnTransformer/tree/master/chap8)
